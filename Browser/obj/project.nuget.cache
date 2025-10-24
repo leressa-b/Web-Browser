@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kcjr4YGt64=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leres\\Web-Browser\\Browser\\Browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leres\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
